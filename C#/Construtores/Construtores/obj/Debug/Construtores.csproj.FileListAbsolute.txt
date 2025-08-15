@@ -1,0 +1,8 @@
+C:\Users\ccfel\OneDrive\C#\Construtores\Construtores\bin\Debug\Construtores.exe.config
+C:\Users\ccfel\OneDrive\C#\Construtores\Construtores\bin\Debug\Construtores.exe
+C:\Users\ccfel\OneDrive\C#\Construtores\Construtores\bin\Debug\Construtores.pdb
+C:\Users\ccfel\OneDrive\C#\Construtores\Construtores\obj\Debug\Construtores.csproj.AssemblyReference.cache
+C:\Users\ccfel\OneDrive\C#\Construtores\Construtores\obj\Debug\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\ccfel\OneDrive\C#\Construtores\Construtores\obj\Debug\Construtores.exe
+C:\Users\ccfel\OneDrive\C#\Construtores\Construtores\obj\Debug\Construtores.pdb
+C:\Users\ccfel\OneDrive\C#\Construtores\Construtores\obj\Debug\Construtores.exe.config

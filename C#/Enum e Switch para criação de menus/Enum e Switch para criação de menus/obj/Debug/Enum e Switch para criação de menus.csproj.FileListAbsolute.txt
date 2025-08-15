@@ -1,0 +1,8 @@
+C:\Users\ccfel\OneDrive\C#\Enum e Switch para criação de menus\Enum e Switch para criação de menus\bin\Debug\Enum e Switch para criação de menus.exe.config
+C:\Users\ccfel\OneDrive\C#\Enum e Switch para criação de menus\Enum e Switch para criação de menus\bin\Debug\Enum e Switch para criação de menus.exe
+C:\Users\ccfel\OneDrive\C#\Enum e Switch para criação de menus\Enum e Switch para criação de menus\bin\Debug\Enum e Switch para criação de menus.pdb
+C:\Users\ccfel\OneDrive\C#\Enum e Switch para criação de menus\Enum e Switch para criação de menus\obj\Debug\Enum e Switch para criação de menus.csproj.AssemblyReference.cache
+C:\Users\ccfel\OneDrive\C#\Enum e Switch para criação de menus\Enum e Switch para criação de menus\obj\Debug\Enum e Switch para criação de menus.csproj.CoreCompileInputs.cache
+C:\Users\ccfel\OneDrive\C#\Enum e Switch para criação de menus\Enum e Switch para criação de menus\obj\Debug\Enum e Switch para criação de menus.exe
+C:\Users\ccfel\OneDrive\C#\Enum e Switch para criação de menus\Enum e Switch para criação de menus\obj\Debug\Enum e Switch para criação de menus.pdb
+C:\Users\ccfel\OneDrive\C#\Enum e Switch para criação de menus\Enum e Switch para criação de menus\obj\Debug\Enum e Switch para criação de menus.exe.config

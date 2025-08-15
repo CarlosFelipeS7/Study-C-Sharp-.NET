@@ -1,0 +1,8 @@
+C:\Users\ccfel\OneDrive\C#\Exercicios Estrutura de Repeticao\Exercicios Estrutura de Repeticao\bin\Debug\Exercicios Estrutura de Repeticao.exe.config
+C:\Users\ccfel\OneDrive\C#\Exercicios Estrutura de Repeticao\Exercicios Estrutura de Repeticao\bin\Debug\Exercicios Estrutura de Repeticao.exe
+C:\Users\ccfel\OneDrive\C#\Exercicios Estrutura de Repeticao\Exercicios Estrutura de Repeticao\bin\Debug\Exercicios Estrutura de Repeticao.pdb
+C:\Users\ccfel\OneDrive\C#\Exercicios Estrutura de Repeticao\Exercicios Estrutura de Repeticao\obj\Debug\Exercicios Estrutura de Repeticao.csproj.AssemblyReference.cache
+C:\Users\ccfel\OneDrive\C#\Exercicios Estrutura de Repeticao\Exercicios Estrutura de Repeticao\obj\Debug\Exercicios Estrutura de Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\ccfel\OneDrive\C#\Exercicios Estrutura de Repeticao\Exercicios Estrutura de Repeticao\obj\Debug\Exercicios Estrutura de Repeticao.exe
+C:\Users\ccfel\OneDrive\C#\Exercicios Estrutura de Repeticao\Exercicios Estrutura de Repeticao\obj\Debug\Exercicios Estrutura de Repeticao.pdb
+C:\Users\ccfel\OneDrive\C#\Exercicios Estrutura de Repeticao\Exercicios Estrutura de Repeticao\obj\Debug\Exercicios Estrutura de Repeticao.exe.config

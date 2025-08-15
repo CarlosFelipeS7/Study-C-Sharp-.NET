@@ -1,0 +1,7 @@
+C:\Users\ccfel\OneDrive\C#\Do While\Do While\bin\Debug\Do While.exe.config
+C:\Users\ccfel\OneDrive\C#\Do While\Do While\bin\Debug\Do While.exe
+C:\Users\ccfel\OneDrive\C#\Do While\Do While\bin\Debug\Do While.pdb
+C:\Users\ccfel\OneDrive\C#\Do While\Do While\obj\Debug\Do While.csproj.AssemblyReference.cache
+C:\Users\ccfel\OneDrive\C#\Do While\Do While\obj\Debug\Do While.csproj.CoreCompileInputs.cache
+C:\Users\ccfel\OneDrive\C#\Do While\Do While\obj\Debug\Do While.exe
+C:\Users\ccfel\OneDrive\C#\Do While\Do While\obj\Debug\Do While.pdb
