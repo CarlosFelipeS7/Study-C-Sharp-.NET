@@ -42,7 +42,7 @@ namespace Construtores
             Console.WriteLine(bola.peso);
             Console.WriteLine(bola.marca);
 
-            Console.WriteLine("Atualizado");
+            Console.WriteLine("Atualizado 2025");
             Console.ReadLine();
         }
     }
