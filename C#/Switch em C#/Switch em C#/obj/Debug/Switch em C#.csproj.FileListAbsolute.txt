@@ -1,8 +1,0 @@
-C:\Users\ccfel\source\repos\Switch em C#\Switch em C#\bin\Debug\Switch em C#.exe.config
-C:\Users\ccfel\source\repos\Switch em C#\Switch em C#\bin\Debug\Switch em C#.exe
-C:\Users\ccfel\source\repos\Switch em C#\Switch em C#\bin\Debug\Switch em C#.pdb
-C:\Users\ccfel\source\repos\Switch em C#\Switch em C#\obj\Debug\Switch em C#.csproj.AssemblyReference.cache
-C:\Users\ccfel\source\repos\Switch em C#\Switch em C#\obj\Debug\Switch em C#.csproj.CoreCompileInputs.cache
-C:\Users\ccfel\source\repos\Switch em C#\Switch em C#\obj\Debug\Switch em C#.exe
-C:\Users\ccfel\source\repos\Switch em C#\Switch em C#\obj\Debug\Switch em C#.pdb
-C:\Users\ccfel\source\repos\Switch em C#\Switch em C#\obj\Debug\Switch em C#.exe.config

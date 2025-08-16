@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ccfel\\OneDrive\\C#\\Construtores\\",
+  "WorkspaceRootPath": "C:\\Users\\ccfel\\source\\repos\\CarlosFelipeS7\\Study-C-Sharp-.NET\\C#\\Construtores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B234014-4180-409D-9CA6-E62F6589D78E}|Construtores\\Construtores.csproj|c:\\users\\ccfel\\onedrive\\c#\\construtores\\construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B234014-4180-409D-9CA6-E62F6589D78E}|Construtores\\Construtores.csproj|c:\\users\\ccfel\\source\\repos\\carlosfelipes7\\study-c-sharp-.net\\c#\\construtores\\construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B234014-4180-409D-9CA6-E62F6589D78E}|Construtores\\Construtores.csproj|solutionrelative:construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\C#\\Construtores\\Construtores\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ccfel\\source\\repos\\CarlosFelipeS7\\Study-C-Sharp-.NET\\C#\\Construtores\\Construtores\\Program.cs",
               "RelativeDocumentMoniker": "Construtores\\Program.cs",
-              "ToolTip": "C:\\Users\\ccfel\\OneDrive\\C#\\Construtores\\Construtores\\Program.cs",
+              "ToolTip": "C:\\Users\\ccfel\\source\\repos\\CarlosFelipeS7\\Study-C-Sharp-.NET\\C#\\Construtores\\Construtores\\Program.cs",
               "RelativeToolTip": "Construtores\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAuwCwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T17:23:26.317Z",
               "EditorCaption": ""
