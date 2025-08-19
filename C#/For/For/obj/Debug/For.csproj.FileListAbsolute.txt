@@ -1,8 +1,0 @@
-C:\Users\ccfel\OneDrive\C#\For\For\bin\Debug\For.exe.config
-C:\Users\ccfel\OneDrive\C#\For\For\bin\Debug\For.exe
-C:\Users\ccfel\OneDrive\C#\For\For\bin\Debug\For.pdb
-C:\Users\ccfel\OneDrive\C#\For\For\obj\Debug\For.csproj.AssemblyReference.cache
-C:\Users\ccfel\OneDrive\C#\For\For\obj\Debug\For.csproj.CoreCompileInputs.cache
-C:\Users\ccfel\OneDrive\C#\For\For\obj\Debug\For.exe
-C:\Users\ccfel\OneDrive\C#\For\For\obj\Debug\For.pdb
-C:\Users\ccfel\OneDrive\C#\For\For\obj\Debug\For.exe.config

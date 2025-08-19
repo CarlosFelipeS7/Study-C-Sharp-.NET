@@ -1,8 +1,0 @@
-C:\Users\ccfel\source\repos\Array em C#\Array em C#\bin\Debug\Array em C#.exe.config
-C:\Users\ccfel\source\repos\Array em C#\Array em C#\bin\Debug\Array em C#.exe
-C:\Users\ccfel\source\repos\Array em C#\Array em C#\bin\Debug\Array em C#.pdb
-C:\Users\ccfel\source\repos\Array em C#\Array em C#\obj\Debug\Array em C#.csproj.AssemblyReference.cache
-C:\Users\ccfel\source\repos\Array em C#\Array em C#\obj\Debug\Array em C#.csproj.CoreCompileInputs.cache
-C:\Users\ccfel\source\repos\Array em C#\Array em C#\obj\Debug\Array em C#.exe
-C:\Users\ccfel\source\repos\Array em C#\Array em C#\obj\Debug\Array em C#.pdb
-C:\Users\ccfel\source\repos\Array em C#\Array em C#\obj\Debug\Array em C#.exe.config

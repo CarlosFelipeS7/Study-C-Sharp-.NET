@@ -1,8 +1,0 @@
-C:\Users\ccfel\OneDrive\C#\Calculadora no CMD\Calculadora no CMD\bin\Debug\Calculadora no CMD.exe.config
-C:\Users\ccfel\OneDrive\C#\Calculadora no CMD\Calculadora no CMD\bin\Debug\Calculadora no CMD.exe
-C:\Users\ccfel\OneDrive\C#\Calculadora no CMD\Calculadora no CMD\bin\Debug\Calculadora no CMD.pdb
-C:\Users\ccfel\OneDrive\C#\Calculadora no CMD\Calculadora no CMD\obj\Debug\Calculadora no CMD.csproj.AssemblyReference.cache
-C:\Users\ccfel\OneDrive\C#\Calculadora no CMD\Calculadora no CMD\obj\Debug\Calculadora no CMD.csproj.CoreCompileInputs.cache
-C:\Users\ccfel\OneDrive\C#\Calculadora no CMD\Calculadora no CMD\obj\Debug\Calculadora no CMD.exe
-C:\Users\ccfel\OneDrive\C#\Calculadora no CMD\Calculadora no CMD\obj\Debug\Calculadora no CMD.pdb
-C:\Users\ccfel\OneDrive\C#\Calculadora no CMD\Calculadora no CMD\obj\Debug\Calculadora no CMD.exe.config

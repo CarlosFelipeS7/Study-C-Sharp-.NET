@@ -42,6 +42,9 @@ namespace Construtores
             Console.WriteLine(bola.peso);
             Console.WriteLine(bola.marca);
 
+            
+            
+
             Console.ReadLine();
         }
     }

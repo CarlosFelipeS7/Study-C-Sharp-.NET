@@ -1,8 +1,0 @@
-C:\Users\ccfel\source\repos\Funções\Funções\bin\Debug\Funções.exe.config
-C:\Users\ccfel\source\repos\Funções\Funções\bin\Debug\Funções.exe
-C:\Users\ccfel\source\repos\Funções\Funções\bin\Debug\Funções.pdb
-C:\Users\ccfel\source\repos\Funções\Funções\obj\Debug\Funções.csproj.AssemblyReference.cache
-C:\Users\ccfel\source\repos\Funções\Funções\obj\Debug\Funções.csproj.CoreCompileInputs.cache
-C:\Users\ccfel\source\repos\Funções\Funções\obj\Debug\Funções.exe
-C:\Users\ccfel\source\repos\Funções\Funções\obj\Debug\Funções.pdb
-C:\Users\ccfel\source\repos\Funções\Funções\obj\Debug\Funções.exe.config
